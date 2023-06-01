@@ -1,0 +1,6 @@
+framework module Pods_FlowerSearch {
+  umbrella header "Pods-FlowerSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
